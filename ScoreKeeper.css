@@ -1,0 +1,32 @@
+body{
+
+	background: url(ScoreKeeper.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.gameOver{
+
+	color: green;
+}
+
+h5
+{
+color: red;
+}
+
+.jumbotron{
+
+	margin-top : 330px;
+}
+
+#button1, #button2, #button3{
+
+	margin-left: 20px;
+}
+
+html{
+
+	height: 100%;
+}
