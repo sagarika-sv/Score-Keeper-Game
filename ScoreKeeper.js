@@ -1,6 +1,6 @@
 var score1 = document.getElementById("score1");
 var score2 = document.getElementById("score2");
-var pl_count = document.querySelector("p span");
+var pl_count = document.querySelector("h5 span");
 var button1 = document.getElementById("button1");
 var button2 = document.getElementById("button2");
 var button3 = document.getElementById("button3");
